@@ -1,0 +1,20 @@
+h3{
+    font-size: 20px;
+    margin-left:200px;
+    margin-bottom:30px;
+    font-weight:bold;
+}
+
+p{
+    border-top: 1px solid black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    padding:20px;
+    width:200px;
+    align-items: center;
+    margin:0px;
+    margin-left:200px;
+}
+p:hover{
+    background:red;
+}
